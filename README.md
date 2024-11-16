@@ -1,2 +1,5 @@
-# app-dev
-My first repository
+{
+  "FirstMovie": "Twilight",
+  "SecondMovie": "HungerGames",
+  "ThirdMovie": "GameOfThrones"
+}
